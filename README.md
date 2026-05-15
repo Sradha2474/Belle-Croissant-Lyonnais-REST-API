@@ -199,13 +199,6 @@ The API will be available at:
 
 ---
 
-## 📖 Swagger UI
-
-<img width="720" height="1600" alt="WhatsApp Image 2026-05-15 at 3 25 57 PM" src="https://github.com/user-attachments/assets/b07be250-803c-4120-97f1-cb26a7a9ff60" />
-
-
----
-
 ## 📝 License
 
 This project was developed as part of an academic assessment. All rights reserved.
