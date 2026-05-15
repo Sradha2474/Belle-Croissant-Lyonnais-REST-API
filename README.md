@@ -201,13 +201,8 @@ The API will be available at:
 
 ## 📖 Swagger UI
 
-Interactive API documentation is available at:
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-15 at 3 25 57 PM" src="https://github.com/user-attachments/assets/b07be250-803c-4120-97f1-cb26a7a9ff60" />
 
-```
-https://localhost:7000/swagger
-```
-
-All endpoints are listed and testable directly from the browser. Use the **Authorize** button to enter Basic Auth credentials for protected routes.
 
 ---
 
